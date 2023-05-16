@@ -6,5 +6,6 @@
 
 <h3 align="center">
 Mamadou Talla Dia
-<br />@domutala
+<br />
+  <a href="https://domutala.github.io/">@domutala</a>
 </h3>
