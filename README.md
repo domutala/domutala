@@ -2,7 +2,7 @@
   <a href="https://domutala.github.io/">
     <img width="96" src="./logo-domutala.png" alt="Mamadou Talla DIA">
     <br />
-    Mamadou Talla Dia
+    Mamadou
     <br />
     @domutala
   </a>
