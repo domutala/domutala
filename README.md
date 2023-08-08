@@ -2,8 +2,6 @@
   <a href="https://domutala.github.io/">
     <img width="96" src="./logo-domutala.png" alt="Mamadou Talla DIA">
     <br />
-    Mamadou
-    <br />
     @domutala
   </a>
 </p>
