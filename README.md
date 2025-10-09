@@ -1,5 +1,9 @@
-👋🏾 Hey, I'm Mamadou!
+👋🏾 Hi, I’m Mamadou!
+---
 
-Hi, I’m Mamadou — a passionate, curious, and detail-oriented developer.
-I love designing elegant, high-performance, and meaningful solutions, where every line of code reflects a commitment to clarity and quality.
-After several years working on diverse projects as an employee, I founded [@advensya](https://github.com/advensya) to support ambitious initiatives and share my vision of modern software development.
+I’m a passionate, curious, and detail-oriented developer who loves designing elegant and high-performance solutions, where every line of code reflects clarity and quality.
+After several years working on diverse projects as an employee, I founded [@Advensya](https://github.com/advensya) and launched **[Tarico](https://www.tarico.com)**, a SaaS HR and administrative platform specifically designed for small and medium-sized African businesses.
+I support ambitious projects and share my vision of modern software development.
+
+👉 You can also find me on [LinkedIn](https://www.linkedin.com/in/your-profile).
+
