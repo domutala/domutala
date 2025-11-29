@@ -1,10 +1,30 @@
-👋🏾 **Hello, I'm Mamadou!**
----
+# 👋 Hi, I'm Mamadou  
+### Senior Frontend Engineer — Nuxt.js / Vue.js Expert
 
-A passionate, curious, and detail-oriented developer, I love designing elegant and high-performing solutions, where every line of code reflects **clarity** and **quality**.
+I'm a senior frontend engineer specialized in building high-performance, scalable and maintainable web applications using **Nuxt.js**, **Vue.js 3**, and **TypeScript**.  
+I focus on clean architecture, great developer experience, and long-term code quality.
 
-After several years as an employee working on various projects, I founded **[@Advensya](https://github.com/advensya)** and launched **[Tarico](https://www.tarico.com)**, an HR and administrative SaaS platform specifically designed for the **African market**.
+### 🔧 Technologies & Skills
+- **Frontend:** Nuxt.js (2/3), Vue.js 3, Composition API, TailwindCSS, Pinia, Storybook  
+- **Backend:** Node.js, NestJS, AdonisJS  
+- **DevOps:** Docker, CI/CD (GitHub Actions, GitLab CI), testing (Vitest, Cypress)  
+- **Other:** Design systems, performance optimization, SSR/ISR, SEO
 
-I support ambitious projects and share my vision for **modern development**.
+### 🚀 What I Do
+- Build and optimize production-grade Nuxt.js applications  
+- Create reusable UI components & design systems  
+- Improve Lighthouse & Core Web Vitals (LCP, TTI, bundle-size)  
+- Architect scalable frontends & integrate APIs  
+- Mentor developers and contribute to engineering culture  
 
-👉 You can also find me on [LinkedIn](https://www.linkedin.com/in/your-profile).
+### 📈 Current Goals
+- Contribute to open source Nuxt/Vue projects  
+- Build high-quality web tools and libraries  
+- Collaborate on innovative frontend architectures  
+
+### 📫 Contact
+- GitHub: **@domutala**  
+- LinkedIn: [linkedin.com/in/domutala](https://linkedin.com/in/domutala)  
+- Email: **ibntalla@gmail.com**  
+
+If you're working with **Vue/Nuxt**, feel free to reach out — I'm always open to collaboration.
